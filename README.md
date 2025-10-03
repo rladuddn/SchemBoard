@@ -1,4 +1,4 @@
 # SchemBoard
 python projects
 
-apple
+김영우 ㅇㅇ
