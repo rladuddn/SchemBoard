@@ -1,0 +1,25 @@
+{
+  "WIDTH": 1920,
+  "HEIGHT": 1080,
+  "FPS": 90,
+  "GRID": 16,
+  "SNAP_RADIUS": 14,
+  "PORT_RADIUS": 6,
+  "WIRE_WIDTH": 4,
+  "SIGNAL_FAMILIES": {
+    "red":    { "on": [230, 70, 70],   "off": [110, 35, 35] },
+    "green":  { "on": [70, 210, 120],  "off": [30, 80, 55] },
+    "blue":   { "on": [100, 160, 250], "off": [40, 65, 95] },
+    "purple": { "on": [170, 100, 220], "off": [70, 45, 95] },
+    "amber":  { "on": [255, 200, 80],  "off": [120, 90, 40] }
+  },
+  "DEFAULT_FAMILY": "red",
+  "COLORS": {
+    "BLACK": [15, 17, 20],
+    "PANEL_BG": [30, 34, 40],
+    "PANEL_BORDER": [60, 68, 80],
+    "WHITE": [230, 235, 240],
+    "MUTED": [150, 156, 165],
+    "SELECT": [255, 204, 102]
+  }
+}
